@@ -44,19 +44,19 @@ Usamos docker-compose para generar automáticamente una configuración docker, p
 
   Ejecutamos el docker compose, con el siguiete comando:
 
-    docker-compose up -d
+  docker-compose up -d
 
-    ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/06503133-3103-4d59-a9c5-fdbddc2d36b8)
+  ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/06503133-3103-4d59-a9c5-fdbddc2d36b8)
 
-    Verificamos que se crearon los servicios:
+  Verificamos que se crearon los servicios:
 
-    docker ps
+  docker ps
 
-    ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/03619d76-e446-47af-bcca-40ef6fb4ad92)
+  ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/03619d76-e446-47af-bcca-40ef6fb4ad92)
 
-    Verificamos en nuestro apoyo Docker Desktop
+  Verificamos en nuestro apoyo Docker Desktop
 
-    ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/5494631f-a6c5-4563-800d-0e5c840b62df)
+  ![image](https://github.com/rayo100/BonoParcial1-AREP/assets/89558695/5494631f-a6c5-4563-800d-0e5c840b62df)
 
 
 # Finalmente, subimos la imagen a DockerHub
